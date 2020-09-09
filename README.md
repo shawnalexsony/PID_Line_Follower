@@ -8,5 +8,6 @@ Output is 2 DC motor with PWM control. <br>
 Based on closed Loop PID algorithm to minimize error and maximize the performance without sacrificing speed.
 
 <br>
+See a photo of the robot I built. 
 https://raw.githubusercontent.com/shawnalexsony/PID_Line_Follower/master/linefollower.jpg
 
